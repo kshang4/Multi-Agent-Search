@@ -2,7 +2,7 @@
 Exploring different multi-agent search algorithms, such as Minimax, Alpha-Beta Pruning, and Expectimax through Pac-Man
 
 
-This project is written in Python
+This project is written in Python 3.6
 
 To run a classic game of Pac-Man, run command:
 python pacman.py
